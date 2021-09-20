@@ -1,4 +1,4 @@
-# This coe is written by Behnaz Eslami - behnazeslami30@gmail.com
+# This code is written by Behnaz Eslami - behnazeslami30@gmail.com
 import requests
 import time
 import json
